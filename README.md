@@ -1,5 +1,19 @@
 # Chrome Time Tracker & Productivity Analytics
 
+*Company*: CODTECH IT SOLUTIONS
+
+*NAME*: TAMMINEEDI PRANAVYA
+
+*INTERN ID*: CT08DN1485
+
+*DOMAIN*: FULL STACK WEB DEVEOLPMENT
+
+*DURATION*: 8 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+
+
 A smart Chrome Extension to track your time on different websites and analyze productivity.
 ##  Features
 
